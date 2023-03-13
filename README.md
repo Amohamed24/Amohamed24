@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 ------------
 
-I've been learning SQL and R for the past 2 months since starting the Google Data Analytics course. Gained a lot of experience collecting, transforming, and organizing data for analysis. Also, I'm a huge basketball fan.
+I'm a software engineer with a passion for web development. 
 
 * 🌍  I'm based in Minnesota
 * ✉️  You can contact me at [ahmed870@umn.edu](mailto:ahmed870@umn.edu)
-* 🧠  Currently building a business websit
+* 🧠  Currently building a business website
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
