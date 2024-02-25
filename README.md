@@ -5,7 +5,7 @@ Research Coordinator | Full-Stack Developer
 ------------
 
 
-Hi there! I'm Mohamed, a passionate and detail-oriented data scientist with a background in Research. My journey in the world of data began when I discovered the power of turning raw information into actionable insights.
+Hi there! I'm Mohamed, a passionate and detail-oriented data analyst with a background in Research. My journey in the world of data began when I discovered the power of turning raw information into actionable insights.
  
 
 * 🌍  I am currently based in Minnesota, where I enjoy the diverse seasons and vibrant communities that this state has to offer. Living in this region has provided me with a unique cultural experience and it's a fantastic place that I'm proud to call home.
