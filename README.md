@@ -5,12 +5,11 @@ Research Coordinator | Full-Stack Developer
 ------------
 
 
-Hi there! I'm Mohamed, a passionate and detail-oriented data analyst with a background in Research. My journey in the world of data began when I discovered the power of turning raw information into actionable insights.
+Hi there! I'm Mohamed, a passionate and highly motivated Full Stack Developer with a strong foundation in frontend and backend development. Proven ability to deliver efficient and user-friendly web applications.
  
 
 * 🌍  I am currently based in Minnesota, where I enjoy the diverse seasons and vibrant communities that this state has to offer. Living in this region has provided me with a unique cultural experience and it's a fantastic place that I'm proud to call home.
 * 🧠  Currently delving deeper into the realm of machine learning to expand my knowledge and skills in this dynamic field.
-* 🤝  I'm enthusiastic about the prospect of collaborating on intriguing projects that involve deep learning or Natural Learning Processing(NLP). If you have a compelling idea or initiative that could benefit from a collaborative effort, I'd be thrilled to explore the possibilities and contribute my skills and expertise. Let's create something impactful together!
 * ✉️  You can contact me at [ahmed870@umn.edu](mailto:ahmed870@umn.edu)
 
 ## Core Skills
