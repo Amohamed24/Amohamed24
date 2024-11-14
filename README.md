@@ -1,32 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamed Ahmed
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Mohamed - Full-Stack Developer
 =====================================================================================================================================
 
-Research Coordinator | Full-Stack Developer
+Welcome to my GitHub! I'm a passionate software engineer with a focus on building scalable and user-friendly applications. With expertise in frontend development (React, TypeScript, Tailwind CSS) and backend systems (Node.js, Express, Supabase), I thrive on creating seamless and engaging user experiences while also handling the complexities of backend architecture.
+
+
+🔧 Technologies & Tools
 ------------
 
+Frontend:
+React, TypeScript, JavaScriptNext.js, Vite,
+Tailwind CSS, ShadCN, HTML5, CSS3, SASS
 
-Hi there! I'm Mohamed, a passionate and highly motivated Full Stack Developer with a strong foundation in frontend and backend development. Proven ability to deliver efficient and user-friendly web applications.
- 
+Backend:
+Node.js, Express.js, Supabase (PostgreSQL), MongoDB, MySQL,
+RESTful APIs, JWT Authentication
 
-* 🌍  I am currently based in Minnesota, where I enjoy the diverse seasons and vibrant communities that this state has to offer. Living in this region has provided me with a unique cultural experience and it's a fantastic place that I'm proud to call home.
-* 🧠  Currently delving deeper into the realm of machine learning to expand my knowledge and skills in this dynamic field.
-* ✉️  You can contact me at [ahmed870@umn.edu](mailto:ahmed870@umn.edu)
+Version Control:
+Git, GitHub
 
-## Core Skills
+Other:
+Firebase (Authentication),
+Real-time data handling
 
-- **Data Analysis:** Leveraging statistical techniques and exploratory data analysis (EDA) to uncover patterns and trends.
-- **Machine Learning:** Designing and implementing predictive models using various algorithms and frameworks (scikit-learn, TensorFlow, PyTorch).
-- **Data Visualization:** Creating compelling visualizations to effectively communicate complex findings using tools like Matplotlib, Seaborn, and Tableau.
-
-### Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Amohamed24" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamed-ahmed-0998041b3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
