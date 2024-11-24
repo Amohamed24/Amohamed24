@@ -8,8 +8,8 @@ Welcome to my GitHub! I'm a passionate software engineer with a focus on buildin
 ------------
 
 Frontend:
-React, TypeScript, JavaScriptNext.js, Vite,
-Tailwind CSS, ShadCN, HTML5, CSS3, SASS
+React, TypeScript, JavaScript, Next.js, Vite,
+Tailwind CSS, ShadCN, HTML5, CSS3
 
 Backend:
 Node.js, Express.js, Supabase (PostgreSQL), MongoDB, MySQL,
@@ -19,6 +19,6 @@ Version Control:
 Git, GitHub
 
 Other:
-Firebase (Authentication),
+Firebase (Authentication), 
 Real-time data handling
 
