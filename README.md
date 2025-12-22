@@ -1,42 +1,36 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Mohamed Ahmed
 
-# Hi, I'm Mohamed — Full-Stack Developer 🚀
+**Full Stack Software Engineer** building products that connect people to resources.
 
-Welcome to my GitHub! I'm a passionate software engineer focused on building scalable and user-friendly applications. With expertise in frontend development (React, TypeScript, Tailwind CSS) and backend systems (Node.js, Express, Supabase), I thrive on crafting seamless user experiences while managing backend complexity.
+Currently Co-Founder at [ProviderConnect](https://github.com/test), a housing technology platform serving 50+ users in the Twin Cities.
 
----
+## What I'm Working On
 
-## 🔧 Technologies & Tools
+🏠 **ProviderConnect** — Housing platform connecting case managers with housing providers. React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Socket.IO for real-time features.
 
-**Frontend:**  
-React, TypeScript, JavaScript, Next.js, Vite, Tailwind CSS, ShadCN, HTML5, CSS3  
+🛒 **[PulsePoint](https://ecommerce-mohamed-ahmeds-projects-dc30db48.vercel.app)** — E-commerce platform with checkout flow, JWT auth, and MongoDB backend.
 
-**Backend:**  
-Node.js, Express.js, Supabase (PostgreSQL), MongoDB, MySQL, RESTful APIs, JWT Authentication, Firebase (Authentication)  
+📊 **HabitFlow** *(in progress)* — Habit tracking application built with Java and Spring Boot.
 
-**Version Control:**  
-Git, GitHub  
+## Tech Stack
 
-**Other:**  
-CI/CD (Vercel), Firebase, Real-time data handling, Socket.IO
+```
+Frontend:      React · Next.js · TypeScript · Tailwind CSS
+Backend:       Node.js · Express · Java · Spring Boot · REST APIs · Socket.IO
+Databases:     PostgreSQL · MongoDB · SQL
+Testing:       Jest · React Testing Library
+DevOps:        Git · Vercel · CI/CD
+```
 
----
+## Background
 
-## 🧠 What I'm Working On
+Transitioned from clinical research where I built SQL pipelines processing 10,000+ patient records and Python automation scripts. Co-authored a [peer-reviewed publication](https://pubmed.ncbi.nlm.nih.gov/39466278/) in 2024.
 
-- 🏠 [ProviderConnect – Housing Platform](https://providerconnect.co/) – full-stack platform with real-time messaging, role-based access, and live filtering (React + Supabase + Socket.IO)  
+## Let's Connect
 
-- 📦 [PulsePoint – Ecommerce App](https://ecommerce-git-main-mohamed-ahmeds-projects-dc30db48.vercel.app/) – full-featured ecommerce platform with JWT login, product filters, persistent cart, and CI/CD (React + MongoDB)
-
----
-
-## 🌱 Currently Learning
-
-GraphQL, automated testing (Jest & Cypress), and scalable backend architecture
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/test/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:test@gmail.com)
 
 ---
 
-## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-0998041b3/)
-- Email: mmohameda97@gmail.com
+*Based in Minneapolis, MN. Open to full-time software engineering roles.*
