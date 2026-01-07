@@ -8,18 +8,18 @@ Currently Co-Founder at [ProviderConnect](https://theproviderconnect.com/), a ho
 
 🏠 **ProviderConnect** — Housing platform connecting case managers with housing providers. React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Socket.IO for real-time features.
 
-🛒 **[PulsePoint](https://ecommerce-mohamed-ahmeds-projects-dc30db48.vercel.app)** — E-commerce platform with checkout flow, JWT auth, and MongoDB backend.
+✅ **[HabitFlow](https://habit-tracker-one-murex.vercel.app)** — Full stack habit tracking app with Spring Boot REST API, JWT authentication, PostgreSQL, and React/Redux frontend. Lighthouse 100 accessibility score.
 
-📊 **HabitFlow** *(in progress)* — Habit tracking application built with Java and Spring Boot.
+🛒 **[PulsePoint](https://ecommerce-mohamed-ahmeds-projects-dc30db48.vercel.app)** — E-commerce platform with checkout flow, JWT auth, and MongoDB backend.
 
 ## Tech Stack
 
 ```
-Frontend:      React · Next.js · TypeScript · Tailwind CSS
-Backend:       Node.js · Express · Java · Spring Boot · REST APIs · Socket.IO
-Databases:     PostgreSQL · MongoDB · SQL
-Testing:       Jest · React Testing Library
-DevOps:        Git · Vercel · CI/CD
+Frontend:      React · Redux · Next.js · TypeScript · Vite · Tailwind CSS
+Backend:       Spring Boot · Node.js · Express · REST APIs · JWT · Socket.IO
+Databases:     PostgreSQL · MongoDB · JPA/Hibernate
+Testing:       JUnit 5 · Mockito · Jest · Vitest · React Testing Library · Cypress
+DevOps:        Docker · GitHub Actions · AWS (EC2, RDS) · Railway · Vercel · Git
 ```
 
 ## Background
