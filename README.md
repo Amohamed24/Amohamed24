@@ -6,7 +6,7 @@ Currently Co-Founder at [ProviderConnect](https://theproviderconnect.com/), a ho
 
 ## What I'm Working On
 
-🏠 **ProviderConnect** — Housing platform connecting case managers with housing providers. React, Next.js, TypeScript, Node.js, Express, PostgreSQL, Socket.IO for real-time features. [Live Site](https://theproviderconnect.com/) · [Demo](https://www.loom.com/share/715dde35093d429b92e140c5a7ddd109)
+🏠 **ProviderConnect** — Housing platform connecting case managers with housing providers. React, Next.js, TypeScript, Node.js, Express, Supabase, PostgreSQL, Socket.IO for real-time features. [Live Site](https://theproviderconnect.com/) · [Demo](https://www.loom.com/share/715dde35093d429b92e140c5a7ddd109)
 
 ✅ **[HabitFlow](https://github.com/Amohamed24/habit-tracker)** — Microservices habit tracking app with two Spring Boot services, async messaging via Kafka, JWT authentication, PostgreSQL, and React/Redux frontend. Monitoring with Prometheus and Grafana. Containerized with Docker Compose (7 services).
 
@@ -17,10 +17,10 @@ Currently Co-Founder at [ProviderConnect](https://theproviderconnect.com/), a ho
 Frontend:      React · Redux · Next.js · TypeScript · Vite · Tailwind CSS
 Backend:       Java · Spring Boot · Node.js · Express · REST APIs · JWT · Socket.IO
 Messaging:     Apache Kafka
-Databases:     PostgreSQL · MongoDB · JPA/Hibernate
+Databases:     PostgreSQL · Supabase · MongoDB · JPA/Hibernate
 Monitoring:    Prometheus · Grafana
 Testing:       JUnit 5 · Mockito · Jest · Vitest · React Testing Library · Cypress
-DevOps:        Docker · Docker Compose · GitHub Actions · AWS (EC2, RDS) · Vercel · Git
+DevOps:        Docker · GitHub Actions · AWS (EC2, RDS) · Vercel · Git
 ```
 
 ## Background
